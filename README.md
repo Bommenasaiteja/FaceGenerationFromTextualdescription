@@ -1,4 +1,4 @@
-# FaceGenerationFromTextualdescription
+# FaceGeneration From Textual Description
 Text-to-face generation is a subfield of computer graphics and machine learning that aims to
 generate realistic images of human faces from text descriptions.The ability for face recognition
 generation to aid in crucial activities, such reconstruction of criminal face , is what motivated
